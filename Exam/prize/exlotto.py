@@ -1,4 +1,5 @@
 from random import randint as rd
+from random import choices
 
 def lottoGen(num):
     
