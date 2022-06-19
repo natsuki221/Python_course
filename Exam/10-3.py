@@ -1,8 +1,6 @@
 import csv
 import re
-from nbformat import write
 
-from sqlalchemy import true
 
 poem = open('/Users/lintzujeng/Documents/GitHub/Python_course/Exam/poem.txt', 'rt', encoding='utf-8')
 
